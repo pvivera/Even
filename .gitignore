@@ -209,3 +209,4 @@ build/tools/packages/
 tools/*
 !tools/packages.config
 /.nuget
+_NCrunch*/**

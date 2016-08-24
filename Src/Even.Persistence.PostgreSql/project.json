@@ -1,0 +1,11 @@
+﻿{
+  "dependencies": {
+    "Npgsql": "2.2.7"
+  },
+  "frameworks": {
+    "net451": {}
+  },
+  "runtimes": {
+    "win": ""
+  }
+}

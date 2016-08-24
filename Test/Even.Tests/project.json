@@ -2,6 +2,7 @@
   "dependencies": {
     "Akka.TestKit.Xunit2": "1.1.1",
     "MySql.Data": "7.0.2-DMR",
+    "npgsql": "2.2.7",
     "NSubstitute": "1.10.0",
     "System.Data.SQLite.Core": "1.0.102",
     "xunit": "2.1.0",
